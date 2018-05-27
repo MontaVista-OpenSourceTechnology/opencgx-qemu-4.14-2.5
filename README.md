@@ -5,8 +5,8 @@ Montavista Software, LLC. release of qemux86-64.
 How to use:
 ==========
 ```
-git clone --recursive https://github.com/MontaVista-OpenSourceTechnology/opencgx-qemu-4.14-2.4
-cd opencgx-qemu-4.14-2.4
+git clone --recursive https://github.com/MontaVista-OpenSourceTechnology/opencgx-qemu-4.14-2.5
+cd opencgx-qemu-4.14-2.5
 source setup.sh
 ```
 
@@ -40,7 +40,7 @@ For additional information see the yocto documentaion: https://www.yoctoproject.
 directory layout:
 ================
 ```
-opencgx-qemu-4.14-2.4/
+opencgx-qemu-4.14-2.5/
        project - bitbake project for the qemux86-64 project build
        buildtools - build tools to provide minimal build requirement for poky builds
        layers - layers for building qemux86-64 project
